@@ -59,7 +59,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="GroupCreationTests.cs" />
+    <Compile Include="Data\AccountData.cs" />
+    <Compile Include="Data\GroupData.cs" />
+    <Compile Include="Tests\GroupCreationTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
